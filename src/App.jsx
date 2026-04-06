@@ -190,31 +190,7 @@ function App() {
               </div>
             </div>
 
-            {/* Project 4 - Extra with image */}
-            <div className="project-card">
-              <div className="project-image-wrapper">
-                <div className="image-placeholder">
-                  <div className="image-overlay">
-                    <div className="image-icon">🧘</div>
-                    <span>Project Preview</span>
-                  </div>
-                </div>
-              </div>
-              <div className="project-content">
-                <div className="project-year">2024</div>
-                <h3>Zen Habits</h3>
-                <p>Minimalist habit tracking wellness app with gamification and insights.</p>
-                <div className="project-tags">
-                  <span>React Native</span>
-                  <span>Firebase</span>
-                  <span>Redux</span>
-                </div>
-                <div className="project-links">
-                  <button className="project-link">Live Demo →</button>
-                  <button className="project-link">GitHub →</button>
-                </div>
-              </div>
-            </div>
+           
           </div>
         </section>
 
